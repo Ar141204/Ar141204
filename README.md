@@ -14,9 +14,6 @@ I'm Abdul Rahman M<br>A Pre - Final year B. Tech student at Hindustan University
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ar141204&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ar141204&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ar141204&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ar141204&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
