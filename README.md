@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Rahman M</h1>
 <h3 align="center">Junior Front-End Developer | Aspiring Full-Stack Developer & DevOps Engineer</h3>
 # 💫 About Me:
-I'm Abdul Rahman M<br>A Pre - Final year B. Tech student at Hindustan University, Chennai.<br>I aspire to become a versatile tech professional whether as a DevOps engineer, web developer, or software tester. I enjoy learning about how systems work and how technology can solve real-world problems. Currently, I know Python, Java, basics of C and C++, CSS, HTML, and JavaScript, and I’m diving deeper into full-stack development, and DevOps tools.<br>
+I'm Abdul Rahman M<br>A Pre - Final year B. Tech student at Hindustan University, Chennai.<br>I aspire to become a versatile tech professional whether as a DevOps engineer, web developer, or software tester. I enjoy learning about how systems work and how technology can solve real-world problems. Currently, I know Python, basics of Java, CSS, HTML, and JavaScript, and I’m diving deeper into full-stack development, and DevOps tools.<br>
 
 
 ## 🌐 Socials:
