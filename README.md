@@ -6,8 +6,8 @@
 
 ## 🌟 About Me
 
-- 🎓 **Pre-Final Year B.Tech Student** at **Hindustan University, Chennai**
-- 💻 Passionate about **Web Development, DevOps, and System Architecture**
+- 🎓 **Final Year B.Tech Student** at **Hindustan University, Chennai**
+- 💻 Passionate about **Full-Stack Development, DevOps, and System Architecture**
 - 🚀 Exploring **Full-Stack Development, DevOps Tools, and Cloud Computing**
 - 🔥 Building a strong foundation in **Data Structures & Algorithms**
 - 📌 Keen on **automation and deployment** to streamline development processes
