@@ -55,7 +55,6 @@
 ## 📊 GitHub Stats & Contributions
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ar141204&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ar141204&theme=transparent&hide_border=true" />
   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar141204&theme=transparent&hide_border=true&layout=compact" />
 </div>
