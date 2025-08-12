@@ -1,26 +1,28 @@
 <h1 align="center">Hey Buddy! I'm <span style="display: inline-block; animation: wave 1s infinite">👋</span> Rahman</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&width=600&lines=Full-Stack+Developer+|+DevOps+Enthusiast;Passionate+Tech+Learner;Exploring+System+Design+&+Cloud" /></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&width=600&lines=Full-Stack+Developer+|+ML+Enthusiast;Passionate+Tech+Learner;Exploring+System+Design+&+Cloud" />
+</p>
 
 ---
 
 ## 🌟 About Me
 
 - 🎓 **Final Year B.Tech Student** at **Hindustan University, Chennai**
-- 💻 Passionate about **Full-Stack Development, DevOps, and System Architecture**
-- 🚀 Exploring **Full-Stack Development, DevOps Tools, and Cloud Computing**
-- 🔥 Building a strong foundation in **Data Structures & Algorithms**
-- 📌 Keen on **automation and deployment** to streamline development processes
+- 💻 Passionate about **Full-Stack Development, Machine Learning, and System Architecture**
+- 🚀 Exploring **Full-Stack Development, Machine Learning & Deep Learning, and Cloud Computing**
+- 🔥 Building a strong foundation in **Data Structures & Algorithms, Python**
+- 📌 Keen on **automation and intelligent systems** to streamline development processes
 
 ---
 
 ## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/rahman141204">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+  <a href="https://www.linkedin.com/in/rahman141204" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
+
   <a href="mailto:rahman14122004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40" />
   </a>
 </p>
 
@@ -30,13 +32,12 @@
 
 ### ⚡ Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,django,bootstrap,mongodb,git,postman,docker,linux,nginx&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,django,bootstrap,mongodb,git,nginx&theme=dark" />
 </p>
 
-### 🎯 DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,githubactions,jenkins,nginx,aws,bash&theme=dark" />
-</p>
+### 🗄️ Databases & Query Languages
+- **SQL** – Writing efficient queries, joins, and schema design
+- **MongoDB** – Experience with NoSQL databases and Atlas integration
 
 ---
 
@@ -44,7 +45,7 @@
 
 - 🖥 **Frontend Development** - Crafting sleek, responsive UI with **React, HTML, CSS, JavaScript**
 - 🔧 **Backend Development** - Understanding of **Node.js, Django, Express.js, REST APIs**
-- ☁️ **DevOps & Deployment** - Hands-on experience with **Docker, GitHub Actions, CI/CD Pipelines**
+- 🧠 **Machine Learning** - Hands-on with **Python, Scikit-learn, TensorFlow, and ML algorithms**
 - 🌍 **Cloud Computing** - Learning **AWS, Kubernetes, and Cloud Services**
 - 🛠 **Version Control** - Mastering **Git & GitHub Workflow for streamlined development**
 - 🎭 **UI/UX Design** - Familiar with **Figma & Canva** to enhance design aesthetics
@@ -63,7 +64,7 @@
 
 ## 📖 Currently Learning
 
-- ☁️ **DevOps Concepts** - Understanding CI/CD, Docker, Kubernetes & Cloud Infrastructure
+- 🧠 **Machine Learning Concepts** - Understanding supervised/unsupervised learning, model evaluation & deployment
 - 🔧 **Backend Development** - Enhancing skills in **Node.js & Django**
 - 🏗 **Data Structures & Algorithms** - Strengthening problem-solving skills
 - 🛠 **System Design & Scalability** - Learning how to build optimized architectures
